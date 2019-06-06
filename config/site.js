@@ -5,7 +5,7 @@ module.exports = {
   siteTitleAlt: 'Anna Della Badia Portfolio', // Alternative Site title for SEO
   siteTitleShort: 'ANNA', // short_name for manifest
   siteHeadline: 'Direzione della fotografia ecc', // Headline for schema.org JSONLD
-  siteUrl: '', // Domain of your site. No trailing slash!
+  siteUrl: 'https://dreamy-northcutt-c016eb.netlify.com/', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
@@ -35,7 +35,7 @@ module.exports = {
       name: 'Instagram',
     },
     {
-      url: '',
+      url: 'https://dreamy-northcutt-c016eb.netlify.com/',
       name: 'Homepage',
     },
   ],
